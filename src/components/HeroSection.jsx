@@ -27,7 +27,7 @@ function HeroSection() {
           Documentation
         </a>
       </div>
-      <div className="flex mt-10 justify-center">
+      <div className="flex sm:flex-row flex-col items-center mt-10 justify-center">
         <video
           autoPlay
           loop
