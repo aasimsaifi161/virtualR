@@ -16,7 +16,7 @@ function HeroSection() {
         intutive development tools. Get started today and turn your imagination
         into immersive reality!
       </p>
-      <div className="flex justify-center my-10">
+      <div className="flex sm:text-xl text-[12px] justify-center my-10">
         <a
           href="#"
           className="bg-gradient-to-r from bg-orange-500 to-orange-800 py-3 px-4 mx-3 rounded-md"
